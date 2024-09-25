@@ -1,2 +1,0 @@
-# indahmq-mpi
-web mpi
